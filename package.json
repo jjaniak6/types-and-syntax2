@@ -1,0 +1,11 @@
+{
+  "name": "types-and-syntax-2",
+  "version": "2.0.0",
+  "description": "Types and Syntax 2",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
